@@ -8,11 +8,14 @@ This repository contains a demographic and statistical analysis of the populatio
 The main objective of this project is to study demographic behavior in Yucatán through exploratory data analysis and statistical interpretation.
 The analysis includes:
 
-- Population distribution analysis
-- Demographic trend exploration
-- Statistical summaries and visualizations
-- Data cleaning and preprocessing
-- Graphical representation of demographic indicators
+- Population proration from INEGI Census data (2010 & 2020)
+- Census correction using the 1/16 method
+- Exponential population growth modeling
+- Specific mortality and fertility rates
+- Life tables (Tablas de mortalidad)
+- Global Fertility Rate and Mean Age of Fertility
+- Migration analysis
+- Population projections
 
 ---
 
@@ -26,6 +29,13 @@ The analysis includes:
 - Seaborn
 
 ---
+
+## How to View
+
+Download `EntregaFinal.html` and open it in any web browser to see the full analysis with visualizations and results.
+
+---
+
 Developed as part of the Actuarial Science program at Facultad de Ciencias, UNAM.
 
 Developed by **Gael Ramírez**
